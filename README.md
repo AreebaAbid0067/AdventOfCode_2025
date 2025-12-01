@@ -1,16 +1,12 @@
-🎄 Advent of Code – Solutions
+# **Advent of Code – Solutions**
 
-This repository contains my solutions for Advent of Code challenges.
-I solve each puzzle day-by-day and keep the code clean, simple, and easy to understand.
+This repository contains my solutions for **Advent of Code** challenges.  
+Each folder includes the code for a specific day, written in a simple and clear way.
 
-📌 What’s inside?
+## **What's Included**
+- Daily puzzle solutions  
+- Clean and easy-to-read code  
+- My approach to solving each problem
 
-Daily puzzle solutions (organized by year/day)
-
-Clean, well-commented code
-
-My personal approach to problem-solving
-
-🚀 Goal
-
-To practice algorithms, improve problem-solving skills, and have fun during the Advent of Code event.
+## **Purpose**
+The goal of this repository is to practice algorithms, improve problem-solving skills, and track my progress throughout Advent of Code.
